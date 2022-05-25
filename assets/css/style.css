@@ -28,6 +28,8 @@ a {
 body {
   background-color: var(--violet);
   background-image: url("../images/bg-mobile.svg");
+  background-position: center;
+  background-size: cover;
   background-repeat: no-repeat;
   font-family: var(--open-sans);
   color: #fff;
