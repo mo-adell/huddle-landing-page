@@ -121,7 +121,7 @@ nav img {
   color: var(--magenta);
 }
 
-@media screen and (min-width: 23.5rem) {
+@media screen and (min-width: 30rem) {
   body {
     background-image: url("../images/bg-desktop.svg");
     background-size: cover;
